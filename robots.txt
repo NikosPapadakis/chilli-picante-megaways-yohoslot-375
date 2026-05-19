@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chilli-picante-megaways-yohoslot.github.io/sitemap.xml
